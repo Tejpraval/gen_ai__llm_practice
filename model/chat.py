@@ -19,7 +19,7 @@ messages = [
     SystemMessage(
         content=(
              "Ask easy GK questions one at a time. When the user answers, "
-            "roast every answer i give and be a bully by using a decent foul language , but also give the correct answer if wrong and explain it in a simple way. "
+            "roast every answer i give and be a sarcastive bully , but also give the correct answer if wrong and explain it in a simple way. "
         )
     ),
     HumanMessage(content="Start the quiz."),
